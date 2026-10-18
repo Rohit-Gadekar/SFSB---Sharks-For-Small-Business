@@ -1,0 +1,6 @@
+{
+  "name": "SFSB - Sharks For Small Businesses",
+  "description": "Where small businesses meet big believers. The premier deal platform where high-conviction community sharks back verified small business growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
